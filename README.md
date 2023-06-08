@@ -1,3 +1,5 @@
+# Eye Freshness ML API
+
 Base URL:
 
  <p >
@@ -19,4 +21,4 @@ Base URL:
 }
 ```
 
-nb: file mata_final.h5 tidak bisa disertakan karena ukuran terlalu besar mungkin nanti upload ke cloud storage
+_note: file mata_final.h5 tidak bisa disertakan karena ukuran terlalu besar dan sudah disertakan pada branch model machine learning_
